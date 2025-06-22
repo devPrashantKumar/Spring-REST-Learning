@@ -1,5 +1,9 @@
 ### Demo1 - Video 05
 - creating first spring-boot application
 - by default controller response will be considered as view name, using @ResponseBody to resolve that
-- using @AllArgsConstructor to create bean
-- 
+- using @AllArgsConstructor to create bean using constructor based injection
+
+### Demo2 - Video 06
+- use @RestController in place of @Controller+@ResponseBody
+- use method specific mapping in place of @RequestMapping
+- wrap response in ResponseEntity object for sending metadata like responseStatus with api response. 
