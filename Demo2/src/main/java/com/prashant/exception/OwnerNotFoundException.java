@@ -1,7 +1,7 @@
 package com.prashant.exception;
 
 /**
- * @author abhishekvermaa10
+ * @author prashant
  */
 public class OwnerNotFoundException extends Exception {
 	  

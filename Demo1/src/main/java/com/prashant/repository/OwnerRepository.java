@@ -1,7 +1,7 @@
 package com.prashant.repository;
 
 /**
- * @author abhishekvermaa10
+ * @author prashant
  */
 public interface OwnerRepository {
 

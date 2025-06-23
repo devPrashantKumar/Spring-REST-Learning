@@ -5,7 +5,7 @@ import org.springframework.stereotype.Repository;
 import com.prashant.repository.OwnerRepository;
 
 /**
- * @author abhishekvermaa10
+ * @author prashant
  */
 @Repository
 public class OwnerRepositoryImpl implements OwnerRepository {

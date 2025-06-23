@@ -3,7 +3,7 @@ package com.prashant.service;
 import com.prashant.exception.OwnerNotFoundException;
 
 /**
- * @author abhishekvermaa10
+ * @author prashant
  */
 public interface OwnerService {
 	

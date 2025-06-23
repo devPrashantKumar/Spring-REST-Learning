@@ -10,7 +10,7 @@ import com.prashant.service.OwnerService;
 import lombok.RequiredArgsConstructor;
 
 /**
- * @author abhishekvermaa10
+ * @author prashant
  */
 @RequiredArgsConstructor
 @Service
