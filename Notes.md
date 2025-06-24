@@ -7,3 +7,9 @@
 - use @RestController in place of @Controller+@ResponseBody
 - use method specific mapping in place of @RequestMapping
 - wrap response in ResponseEntity object for sending metadata like responseStatus with api response. 
+
+### Demo3 - Video 07
+- taking RequestBody in api input
+
+### Demo4 - Video 08
+- taking @PathVariable in api input
