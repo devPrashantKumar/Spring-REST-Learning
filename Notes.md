@@ -19,3 +19,9 @@
 
 ### Demo6 - Video 10
 - taking @MatrixVariable in api input
+
+### Demo7 - Video 11
+- Exception Handling in Spring Rest using @RestControllerAdvice
+
+### Demo8 - Video 12
+- Input Validation in Spring Rest using @RestControllerAdvice
