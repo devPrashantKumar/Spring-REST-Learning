@@ -24,4 +24,4 @@
 - Exception Handling in Spring Rest using @RestControllerAdvice
 
 ### Demo8 - Video 12
-- Input Validation in Spring Rest using @RestControllerAdvice
+- Input Validation in Spring Rest using spring-boot-starter-validation dependency
