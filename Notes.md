@@ -13,3 +13,9 @@
 
 ### Demo4 - Video 08
 - taking @PathVariable in api input
+
+### Demo5 - Video 09
+- taking @RequestParam in api input
+
+### Demo6 - Video 10
+- taking @MatrixVariable in api input
